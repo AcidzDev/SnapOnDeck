@@ -3,6 +3,8 @@ SnapCraft on SteamOS
 
 
 # Installing 
-``` git clone 
+``` 
+git clone 
 cd SnapOnDeck
-sudo bash install.sh ```
+sudo bash install.sh 
+```
